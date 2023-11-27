@@ -1,6 +1,8 @@
 # python-eyetracking
 Webcam based eyetracking project
 
+먼저 해당 디렉토리에서 cmd를 연 뒤 `pip install -r requirements.txt` 로 필요 라이브러리를 설치하세요.
+
 ## Lecture pptx
 
 
