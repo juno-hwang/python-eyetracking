@@ -6,6 +6,8 @@ Webcam based eyetracking project
 ## Lecture pptx
 [2023 11월 27일](https://docs.google.com/presentation/d/1u83NF1dGgpoiQZ6xuSZX_yOYQIEiAVYV/edit?usp=sharing&ouid=113667026536333859898&rtpof=true&sd=true)
 
+[Colab 분석프로그램](https://drive.google.com/file/d/14paQYZEBnxPWzIvEPeaW9jx1pANVLs3W/view?usp=sharing)
+
 ## 데이터 수집용 링크
 측정하신 `records.pkl` 파일을 [이 링크](https://forms.gle/nkYZy2vG1hLosYj97) 로 보내주시면 추후 성능개선에 도움이 됩니다.
 
