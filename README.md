@@ -10,9 +10,6 @@ Webcam based eyetracking project
 
 [Colab 분석프로그램](https://drive.google.com/file/d/14paQYZEBnxPWzIvEPeaW9jx1pANVLs3W/view?usp=sharing)
 
-## 데이터 수집용 링크
-측정하신 `records.pkl` 파일을 [이 링크](https://forms.gle/nkYZy2vG1hLosYj97) 로 보내주시면 추후 성능개선에 도움이 됩니다.
-
 ## Contact
 황준오 (wnsdh10@snu.ac.kr)
 
